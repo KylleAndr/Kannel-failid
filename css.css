@@ -1,0 +1,24 @@
+body {
+    background-image: url("assets/mets.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    height: 11vh;
+    width: 100px;
+    background-color: blueviolet;
+    margin-bottom: 6vh;
+}
+
+.container {
+    margin-bottom: 6vh;
+}
+
+.container div {
+    height: 11vh;
+    background-color: rgb(20, 189, 211);
+    border-width: 5px;
+    border: blue;
+}
